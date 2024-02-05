@@ -1,0 +1,13 @@
+.image {
+  height: 200px;
+  object-fit: cover; }
+
+.description {
+  font-size: 16px;
+  height: 40px; }
+
+.course-detail {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px; }
